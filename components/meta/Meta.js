@@ -46,9 +46,8 @@ export default function Meta({ title, keywords, description }) {
             <meta charSet="utf-8" />
             <link rel="icon" href={fevicon} />
             <title>{title}</title>
-            <!-- Kode ini telah dimodifikasi dari karya asli Saurav Hathi -->
-            <meta type="copyright" content="cvatsku" />
-            <meta type="author" content="cvatsku" />
+            <meta type="copyright" content="cvatsku, Kode ini telah dimodifikasi dari karya asli Saurav Hathi" />
+            <meta type="author" content="cvatsku, Kode ini telah dimodifikasi dari karya asli Saurav Hathi" />
             {/* Open Graph */}
             <meta property="og:type" content="website" />
             <meta property="og:url" content={homepage} />
