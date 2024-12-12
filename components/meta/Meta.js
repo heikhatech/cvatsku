@@ -1,8 +1,3 @@
-/*
- * Kode ini merupakan modifikasi dari karya asli yang dibuat oleh Saurav Hathi.
- * Asli ditemukan di GitHub (https://github.com/sauravhathi/atsresume).
- * Lisensi: MIT
- */
 import Head from "next/head";
 
 export default function Meta({ title, keywords, description }) {
