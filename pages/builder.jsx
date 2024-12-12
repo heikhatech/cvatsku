@@ -67,6 +67,15 @@ export default function Builder(props) {
         <div className="f-col gap-4 md:flex-row justify-evenly max-w-7xl md:mx-auto md:h-screen">
           {!formClose && (
             <form className="p-4 bg-cyan-600 exclude-print md:max-w-[40%] md:h-screen md:overflow-y-scroll">
+              <div className="mt-4 flex justify-center">
+    <a href="https://cvatsku.vercel.app" target="_blank" rel="noopener noreferrer">
+      <img 
+        src="https://cvatsku.vercel.app/assets/logoats.png" 
+        alt="cvatsku.web.id" 
+        className="max-w-full h-auto" 
+      /> CVATSKU.web.id
+    </a>
+  </div>
               <LoadUnload/>
               <PersonalInformation />
               <SocialMedia />
