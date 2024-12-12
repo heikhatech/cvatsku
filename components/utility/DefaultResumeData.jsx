@@ -1,88 +1,88 @@
 const DefaultResumeData = {
-  name: "MARCUS HALL",
-  position: "Developer",
-  contactInformation: "+1-555-0100",
-  email: "beddylea@gmail.com",
-  address: "San Francisco, CA",
-  profilePicture: "",
-  socialMedia: [
+  "name": "Bambang Budi Santoso",
+  "position": "Pengembang Perangkat Lunak",
+  "contactInformation": "+62-811-1111-1111",
+  "email": "contohbudisantoso@gmail.com",
+  "address": "Jakarta, Indonesia",
+  "profilePicture": "",
+  "socialMedia": [
     {
-      socialMedia: "Github",
-      link: "github.com//bedivere-lea",
+      "socialMedia": "Github",
+      "link": "github.com/contohbudisantoso"
     },
     {
-      socialMedia: "LinkedIn",
-      link: "linkedin.com/in/bedivere-lea",
+      "socialMedia": "LinkedIn",
+      "link": "linkedin.com/in/contohbudisantoso"
     },
     {
-      socialMedia: "Website",
-      link: "bedivere-lea.github.io",
-    },
+      "socialMedia": "Website",
+      "link": "contohbudisantoso.github.io"
+    }
   ],
-  summary: "Resourceful Developer with 11 years of experience in designing and developing user interfaces, testing and training employees. Skilled at utilizing a wide variety of tools and programs to provide effective applications.",
-  education: [
+  "summary": "Pengembang perangkat lunak dengan pengalaman lebih dari 10 tahun dalam merancang dan mengembangkan antarmuka pengguna, pengujian perangkat lunak, serta pelatihan tim. Terampil dalam menggunakan berbagai alat dan teknologi untuk menciptakan aplikasi yang efisien dan sesuai kebutuhan pengguna.",
+  "education": [
     {
-      "school": "Bachelor of Computer Science",
-      "degree": "New York University",
+      "school": "Sarjana Ilmu Komputer",
+      "degree": "Universitas Indonesia",
       "startYear": "2020-08-20",
       "endYear": "2024-07-01"
-    },
+    }
   ],
-  workExperience: [
+  "workExperience": [
     {
-      "company": "Torph TTC",
-      "position": "Developer",
-      "description": "Torph TTC is a global software company that offers user interface UI development tools and components for a range of developer applications across all platforms.",
-      "keyAchievements": "Created and maintained 10 web applications for numerous national and foreign clients.\nEnsured that the user interfaces and user experience of the software applications developed by the team met at least 80% of users expectations.\nCreated and analyzed 500 unit test cases.\nDeveloped python scripts to automate image's noise-reduction process which helped improve research analysis time by 40%.\nEstablished and lead a team of 10 people; covering every key role in the early stages.",
+      "company": "PT Digital 45 Solusi Nusantara",
+      "position": "Pengembang Perangkat Lunak",
+      "description": "PT Digital 45 Solusi Nusantara adalah perusahaan teknologi yang mengkhususkan diri dalam pengembangan perangkat lunak untuk berbagai industri di Indonesia.",
+      "keyAchievements": "Menciptakan dan memelihara 10 aplikasi web untuk berbagai klien nasional dan internasional.\nMemastikan antarmuka pengguna dan pengalaman pengguna dari aplikasi perangkat lunak yang dikembangkan memenuhi minimal 80% harapan pengguna.\nMenciptakan dan menganalisis 500 kasus uji unit.\nMengembangkan skrip Python untuk mengotomatiskan proses pengurangan kebisingan gambar, meningkatkan waktu analisis riset sebesar 40%.\nMendirikan dan memimpin tim beranggotakan 10 orang, mencakup semua peran utama pada tahap awal.",
       "startYear": "2023-02-16",
       "endYear": "2023-02-21"
     },
     {
-      "company": "Reilty Group",
-      "position": "Front End Web Developer",
-      "description": "Reilty Group is an industry-leading provider of online gambling software and solutions.",
-      "keyAchievements": "Increased by 35% the reach of users to the platform, over the installation of the web platform in mobile devices.\nDelivered 30 web solutions.\nReplaced 1 full-time web developer under part-time employment achieving a productivity gain of over 60% as measured by working hours.\nWorked with more than 4 different teams at different points of time and provided end-to-end solutions for clients.",
+      "company": "PT Inovasi 45 Web Indonesia",
+      "position": "Pengembang Web Front End",
+      "description": "PT Inovasi 45 Web Indonesia adalah perusahaan yang berfokus pada solusi pengembangan web untuk bisnis e-commerce dan platform digital.",
+      "keyAchievements": "Meningkatkan jangkauan pengguna ke platform sebesar 35% setelah instalasi platform web di perangkat mobile.\nMenghasilkan 30 solusi web yang inovatif.\nMenggantikan 1 pengembang web penuh waktu dengan karyawan paruh waktu, menghasilkan peningkatan produktivitas lebih dari 60% berdasarkan jam kerja.\nBekerja dengan lebih dari 4 tim yang berbeda untuk memberikan solusi end-to-end kepada klien.",
       "startYear": "2023-02-22",
       "endYear": "2023-03-09"
     },
     {
-      "company": "HellX",
-      "position": "Python Developer",
-      "description": "Heller is a Software Editor specialized in logistics management.",
-      "keyAchievements": "Developed several automation systems - saved over $50,000 annually.\nJoined the team as #10 employee as a developer working directly with the biggest customers.\nInvolved in coding as per the requirement, delivered well ahead of time which saved project cost by 20%.\nReduced database size by nearly 50% and improved its performance by 20%.\nDelivery time of good reduced by 50%.",
+      "company": "PT Solusi 45 Logistik Terpadu",
+      "position": "Pengembang Python",
+      "description": "PT Solusi 45 Logistik Terpadu adalah perusahaan yang bergerak di bidang teknologi untuk solusi manajemen logistik dan otomatisasi proses.",
+      "keyAchievements": "Mengembangkan berbagai sistem otomatisasi yang menghemat lebih dari $50,000 per tahun.\nBergabung sebagai karyawan ke-10 dan bekerja langsung dengan klien terbesar.\nMelakukan pengkodean sesuai kebutuhan, mempercepat pekerjaan dan menghemat biaya proyek sebesar 20%.\nMengurangi ukuran basis data hingga hampir 50% dan meningkatkan kinerjanya sebesar 20%.\nMenyederhanakan proses pengiriman barang dan mengurangi waktu pengiriman sebesar 50%.",
       "startYear": "2023-02-22",
       "endYear": "2023-03-09"
     }
   ],
-  projects: [],
-  skills: [
+  "projects": [],
+  "skills": [
     {
-      title: "Technical Skills",
-      skills: [
-        "JavaScript", "Python", "Web Services", "C++", "HTML5", "CSS", "SQL", "User Interface", "Creativity"
+      "title": "Keterampilan Teknis",
+      "skills": [
+        "JavaScript", "Python", "Layanan Web", "C++", "HTML5", "CSS", "SQL", "Antarmuka Pengguna", "Kreativitas"
       ]
     },
     {
-      title: "Soft Skills",
-      skills: [
-        "Collaboration", "Problem-solving", "Communication", "Time management", "Result-oriented"
+      "title": "Ketereampilan Nonteknis",
+      "skills": [
+        "Kolaborasi", "Pemecahan Masalah", "Komunikasi", "Manajemen Waktu", "Berorientasi Hasil"
       ]
     },
     {
-      title: "Additional Skills",
-      skills: [
-        "Public Speaking", "Writing", "Research"
+      "title": "Keterampilan Tambahan",
+      "skills": [
+        "Public Speaking", "Menulis", "Riset"
       ] 
     }
   ],
-  languages: [
-    "English",
-    "Hindi",
+  "languages": [
+    "Bahasa Indonesia",
+    "Inggris"
   ],
-  certifications: [
+  "certifications": [
     "Certified Web Professional-Web Developer",
-    "Java Development Certified Professional",
-  ],
+    "Java Development Certified Professional"
+  ]
 };
 
 export default DefaultResumeData;
