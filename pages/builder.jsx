@@ -69,7 +69,7 @@ export default function Builder(props) {
             <form className="p-4 bg-cyan-600 exclude-print md:max-w-[40%] md:h-screen md:overflow-y-scroll">
               
       <div className="mt-4 flex flex-col items-center">
-        <a href="https://cvatsku.vercel.app" target="_blank" rel="noopener noreferrer">
+        <a href="https://cvatsku.web.id" target="_blank" rel="noopener noreferrer">
           <img 
             src="https://cvatsku.vercel.app/assets/logoats.png" 
             alt="cvatsku.web.id" 
