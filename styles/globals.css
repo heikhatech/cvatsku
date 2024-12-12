@@ -134,7 +134,7 @@
     }
 
     .preview::after {
-        content: "Created using https://atsresume.vercel.app/";
+        content: "";
         position: fixed;
         bottom: 0;
         right: 0;
