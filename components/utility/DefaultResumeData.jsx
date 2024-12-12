@@ -1,7 +1,7 @@
 const DefaultResumeData = {
   "name": "Bambang Budi Santoso",
   "position": "Pengembang Perangkat Lunak",
-  "contactInformation": "+62-811-1111-1111",
+  "contactInformation": "081100001111",
   "email": "contohbudisantoso@gmail.com",
   "address": "Jakarta, Indonesia",
   "profilePicture": "",
