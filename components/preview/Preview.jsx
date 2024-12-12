@@ -256,7 +256,7 @@ const Preview = () => {
               {resumeData.summary.length > 0 && (
                 <div className="mb-1">
                   <h2 className="section-title mb-1 border-b-2 border-gray-300">
-                    Summary
+                    Ringkasan
                   </h2>
                   <p className="content break-words">{resumeData.summary}</p>
                 </div>
@@ -265,7 +265,7 @@ const Preview = () => {
                 {resumeData.education.length > 0 && (
                   <div className="mb-1">
                     <h2 className="section-title mb-1 border-b-2 border-gray-300">
-                      Education
+                      Pendidikan
                     </h2>
                     {resumeData.education.map((item, index) => (
                       <div key={index} className="mb-1">
@@ -326,7 +326,7 @@ const Preview = () => {
                         contentEditable
                         suppressContentEditableWarning
                       >
-                        Work Experience
+                        Pengalaman
                       </h2>
                       {resumeData.workExperience.map((item, index) => (
                         <Draggable
