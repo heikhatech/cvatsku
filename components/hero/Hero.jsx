@@ -33,7 +33,7 @@ export default function Hero() {
                     </div>
                     <div className="flex flex-col justify-center items-center h-full text-center">
                         <h1 className="text-6xl font-bold text-gray-800 mb-2">
-                            Get hired with an ATS <br />
+                           Buat CV yang Siap Lolos Sistem ATS dan Raih Pekerjaan Impianmu <br />
                             <span className="text-fuchsia-700">
                                 <Typewriter
                                     words={['optimized', 'Perfect', 'Professional']}
@@ -49,10 +49,9 @@ export default function Hero() {
                             Resume.
                         </h1>
                         <p className="text-gray-600 mb-4">
-                            ATSResume is an innovative resume builder that helps job seekers create a professional and optimized resume for applicant tracking systems. Our platform uses cutting-edge technology to analyze and optimize your resume for maximum visibility and success. Say goodbye to manual formatting frustration and wasted time, and Create your winning resume with ATSResume today and get noticed by employers.
-                        </p>
+                            cvatsku.web.id adalah solusi terbaik untuk membuat CV profesional yang siap menghadapi sistem pelacakan lamaran (ATS). Dengan teknologi canggih kami, CV Anda akan dianalisis dan dioptimalkan untuk meningkatkan peluang lolos seleksi dan dilirik oleh perusahaan. Tak perlu lagi repot dengan format manual atau membuang waktu, yuk buat CV unggulan Anda di cvatsku.web.id sekarang, dan biarkan perusahaan melihat potensi Anda lebih jelas</p>
                         <Link href="/builder" className="inline-block bg-fuchsia-700 text-fuchsia-600 px-6 py-3 rounded-lg font-bold text-lg hover:bg-fuchsia-600 transition duration-200 hover:-translate-y-1 transform hover:shadow-lg">
-                            Make My Resume
+                            Buat CV ku
                         </Link>
                     </div>
                 </div>
@@ -78,7 +77,7 @@ const About = () => {
                                     ATS-optimized
                                 </h1>
                                 <p className="text-gray-600">
-                                    Our platform uses cutting-edge technology to analyze and optimize your resume for maximum visibility and success with applicant tracking systems.
+                                    Platform kami menggunakan teknologi terkini untuk menganalisis dan mengoptimalkan CV Anda agar lebih terlihat dan berhasil dengan sistem pelacakan lamaran (ATS).
                                 </p>
                             </div>
                         </div>
@@ -89,7 +88,7 @@ const About = () => {
                                     Easy to use
                                 </h1>
                                 <p className="text-gray-600">
-                                    Our user-friendly interface makes it easy to build a professional, ATS-friendly resume in minutes. No more frustration or wasted time spent on manual formatting.
+                                    Antarmuka yang ramah pengguna kami memudahkan Anda untuk membuat CV profesional yang ramah ATS dalam hitungan menit. Tidak ada lagi frustrasi atau waktu terbuang untuk format manual.
                                 </p>
                             </div>
                         </div>
@@ -100,7 +99,7 @@ const About = () => {
                                     Free
                                 </h1>
                                 <p className="text-gray-600">
-                                    Our platform is completely free to use. No hidden fees or subscriptions. Just create an account and start building your dream resume today!
+                                    Platform kami sepenuhnya gratis untuk digunakan. Tidak ada biaya tersembunyi atau langganan. Cukup buat akun dan mulai bangun CV impian Anda hari ini!
                                 </p>
                             </div>
                         </div>
@@ -111,7 +110,7 @@ const About = () => {
                                     Mobile-friendly
                                 </h1>
                                 <p className="text-gray-600">
-                                    Our platform is fully responsive and mobile-friendly, so you can build your resume on the go. No more waiting until you get home to work on your resume.
+                                    Platform kami sepenuhnya responsif dan ramah seluler, sehingga Anda bisa membuat CV di mana saja. Tidak perlu lagi menunggu sampai di rumah untuk membuat CV Anda.
                                 </p>
                             </div>
                         </div>
@@ -122,7 +121,7 @@ const About = () => {
                                     Download Backup Data
                                 </h1>
                                 <p className="text-gray-600">
-                                    Download your resume data in JSON format and store it in a safe place. You can use this data to restore your resume in the future.
+                                    Unduh data CV Anda dalam format JSON dan simpan di tempat yang aman. Anda dapat menggunakan data ini untuk mengembalikan CV Anda di masa depan.
                                 </p>
                             </div>
                         </div>
@@ -133,7 +132,7 @@ const About = () => {
                                     Upload Backup Data
                                 </h1>
                                 <p className="text-gray-600">
-                                    Upload your resume data in JSON format to restore your resume. This is useful if you accidentally delete your resume or if you want to switch devices.
+                                    Unggah data CV Anda dalam format JSON untuk mengembalikan CV Anda. Fitur ini berguna jika Anda secara tidak sengaja menghapus CV atau jika Anda ingin berpindah perangkat.
                                 </p>
                             </div>
                         </div>
