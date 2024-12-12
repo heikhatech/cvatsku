@@ -40,7 +40,7 @@ const WorkExperience = () => {
 
   return (
     <div className="flex-col-gap-2">
-      <h2 className="input-title">Work Experience</h2>
+      <h2 className="input-title">Pengalaman</h2>
       {resumeData.workExperience.map((workExperience, index) => (
         <div key={index} className="f-col">
           <input
