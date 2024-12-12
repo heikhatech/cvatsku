@@ -1,9 +1,14 @@
+/*
+ * Kode ini merupakan modifikasi dari karya asli yang dibuat oleh Saurav Hathi.
+ * Asli ditemukan di GitHub (https://github.com/sauravhathi/atsresume).
+ * Lisensi: MIT
+ */
 import Head from "next/head";
 
 export default function Meta({ title, keywords, description }) {
-    const homepage = "https://atsresume.vercel.app/";
-    const logo = "https://atsresume.vercel.app/assets/logo.png";
-    const fevicon = "https://atsresume.vercel.app/assets/favicon.ico";
+    const homepage = "https://cvatsku.vercel.app/";
+    const logo = "https://cvatsku.vercel.app/assets/logoats.png";
+    const fevicon = "https://cvatsku.vercel.app/assets/faviconats.ico";
 
     function isiteJsonLd() {
         return {
@@ -14,25 +19,25 @@ export default function Meta({ title, keywords, description }) {
                 "logo": ${logo},
                 "contactPoint": {
                     "@type": "ContactPoint",
-                    "telephone": "+91 9999999999",
+                    "telephone": "+628 1111111111",
                     "contactType": "customer service"
                 },
                 "image": ${logo},
                 "description": ${description},
-                "founder": "Saurav Hathi",
-                "foundingDate": "2023",
-                "foundingLocation": "IN",
+                "founder": "cvatsku",
+                "foundingDate": "2024",
+                "foundingLocation": "ID",
                 "email": "xyz@gmail.com",
-                "telephone": "+91 9999999999",
-                "areaServed": "IN",
+                "telephone": "+628 111111111111",
+                "areaServed": "ID",
                 "keywords": ${keywords},
                 "mainEntityOfPage": ${homepage},
                 "knowsAbout": ${keywords},
-                "knowsLanguage": "English",
-                "memberOf": "Saurav Hathi",
-                "owns": "Saurav Hathi",
+                "knowsLanguage": "Indonesian",
+                "memberOf": "cvatsku",
+                "owns": "cvatsku",
                 "publishingPrinciples": ${homepage},
-                "slogan": "Get hired with an ATS-optimized resume"
+                "slogan": "Buat CV yang Siap Lolos Sistem ATS dan Raih Pekerjaan Impianmu"
             }`
         }
     }
@@ -46,8 +51,9 @@ export default function Meta({ title, keywords, description }) {
             <meta charSet="utf-8" />
             <link rel="icon" href={fevicon} />
             <title>{title}</title>
-            <meta type="copyright" content="ATSResume" />
-            <meta type="author" content="Saurav Hathi" />
+            <!-- Kode ini telah dimodifikasi dari karya asli Saurav Hathi -->
+            <meta type="copyright" content="cvatsku" />
+            <meta type="author" content="cvatsku" />
             {/* Open Graph */}
             <meta property="og:type" content="website" />
             <meta property="og:url" content={homepage} />
