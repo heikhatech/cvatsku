@@ -8,15 +8,15 @@ const DefaultResumeData = {
   "socialMedia": [
     {
       "socialMedia": "Github",
-      "link": "github.com/contohbudisantoso"
+      "link": "github.com/contohbudi"
     },
     {
       "socialMedia": "LinkedIn",
-      "link": "linkedin.com/in/contohbudisantoso"
+      "link": "linkedin.com/in/contohbudi"
     },
     {
       "socialMedia": "Website",
-      "link": "contohbudisantoso.github.io"
+      "link": "contohbudi.github.io"
     }
   ],
   "summary": "Pengembang perangkat lunak dengan pengalaman lebih dari 10 tahun dalam merancang dan mengembangkan antarmuka pengguna, pengujian perangkat lunak, serta pelatihan tim. Terampil dalam menggunakan berbagai alat dan teknologi untuk menciptakan aplikasi yang efisien dan sesuai kebutuhan pengguna.",
