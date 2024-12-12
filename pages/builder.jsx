@@ -64,6 +64,10 @@ export default function Builder(props) {
           description="cvatsku adalah pembuat CV canggih yang membantu pencari kerja membuat CV profesional yang ramah ATS dalam hitungan menit. Platform kami menggunakan teknologi terbaru untuk menganalisis dan mengoptimalkan CV Anda agar memiliki visibilitas maksimal dan sukses di sistem pelacakan lamaran. Ucapkan selamat tinggal pada frustrasi dan waktu yang terbuang untuk format manual CV. Buat CV pemenang Anda dengan cvatsku hari ini dan dapatkan perhatian dari perusahaan."
           keywords="ramah ATS, ats friendly, bikin cv ats, optimasi CV, CV kaya kata kunci, sistem pelacakan lamaran, pembuat CV ATS, template CV ATS, CV sesuai ATS, CV dioptimalkan ATS, format ramah ATS, tips CV ATS, layanan penulisan CV, panduan karier, pencarian kerja di Indonesia, tips CV untuk Indonesia, pembuat CV profesional, penulisan surat lamaran, persiapan wawancara, tips wawancara kerja, pertumbuhan karier, aplikasi pekerjaan online, pembuat CV gratis, pembuat CV ATS, pembuat CV terbaik gratis, pembuat CV, desain CV, editor CV, pembuat surat lamaran"
       />
+        <div className="f-col gap-4 md:flex-row justify-evenly max-w-7xl md:mx-auto md:h-screen">
+          {!formClose && (
+            <form className="p-4 bg-cyan-600 exclude-print md:max-w-[40%] md:h-screen md:overflow-y-scroll">
+              
       <div className="mt-4 flex flex-col items-center">
         <a href="https://cvatsku.vercel.app" target="_blank" rel="noopener noreferrer">
           <img 
