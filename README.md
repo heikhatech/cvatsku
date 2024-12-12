@@ -1,7 +1,7 @@
-# cvatsku
+# cvatsku.web.id
 
 cvatsku adalah pembuat CV canggih yang membantu pencari kerja membuat CV profesional yang ramah ATS dalam hitungan menit. Platform kami menggunakan teknologi terbaru untuk menganalisis dan mengoptimalkan CV Anda agar memiliki visibilitas maksimal dan sukses di sistem pelacakan lamaran. Ucapkan selamat tinggal pada frustrasi dan waktu yang terbuang untuk format manual CV. Buat CV pemenang Anda dengan cvatsku hari ini dan dapatkan perhatian dari perusahaan.
-
+#### [https://cvatsku.web.id](https://cvatsku.web.id)
 Kredit: Proyek ini adalah fork, modifikasi dari https://github.com/sauravhathi/atsresume.
 
 Credit: This project is a fork of https://github.com/sauravhathi/atsresume
