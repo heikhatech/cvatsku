@@ -60,10 +60,10 @@ export default function Builder(props) {
         }}
       >
         <Meta
-          title="ATSResume | Get hired with an ATS-optimized resume"
-          description="ATSResume is a cutting-edge resume builder that helps job seekers create a professional, ATS-friendly resume in minutes. Our platform uses the latest technology to analyze and optimize your resume for maximum visibility and success with applicant tracking systems. Say goodbye to frustration and wasted time spent on manual resume formatting. Create your winning resume with ATSResume today and get noticed by employers."
-          keywords="ATS-friendly, Resume optimization, Keyword-rich resume, Applicant Tracking System, ATS resume builder, ATS resume templates, ATS-compliant resume, ATS-optimized CV, ATS-friendly format, ATS resume tips, Resume writing services, Career guidance, Job search in India, Resume tips for India, Professional resume builder, Cover letter writing, Interview preparation, Job interview tips, Career growth, Online job applications, resume builder, free resume builder, resume ats, best free resume builder, resume creator, resume cv, resume design, resume editor, resume maker"
-        />
+          title="CVATSku | Buat CV ATS Profesional, Gratis! Siap Lolos Seleksi"
+          description="cvatsku adalah pembuat CV canggih yang membantu pencari kerja membuat CV profesional yang ramah ATS dalam hitungan menit. Platform kami menggunakan teknologi terbaru untuk menganalisis dan mengoptimalkan CV Anda agar memiliki visibilitas maksimal dan sukses di sistem pelacakan lamaran. Ucapkan selamat tinggal pada frustrasi dan waktu yang terbuang untuk format manual CV. Buat CV pemenang Anda dengan cvatsku hari ini dan dapatkan perhatian dari perusahaan."
+          keywords="ramah ATS, ats friendly, bikin cv ats, optimasi CV, CV kaya kata kunci, sistem pelacakan lamaran, pembuat CV ATS, template CV ATS, CV sesuai ATS, CV dioptimalkan ATS, format ramah ATS, tips CV ATS, layanan penulisan CV, panduan karier, pencarian kerja di Indonesia, tips CV untuk Indonesia, pembuat CV profesional, penulisan surat lamaran, persiapan wawancara, tips wawancara kerja, pertumbuhan karier, aplikasi pekerjaan online, pembuat CV gratis, pembuat CV ATS, pembuat CV terbaik gratis, pembuat CV, desain CV, editor CV, pembuat surat lamaran"
+      />
         <div className="f-col gap-4 md:flex-row justify-evenly max-w-7xl md:mx-auto md:h-screen">
           {!formClose && (
             <form className="p-4 bg-fuchsia-600 exclude-print md:max-w-[40%] md:h-screen md:overflow-y-scroll">
