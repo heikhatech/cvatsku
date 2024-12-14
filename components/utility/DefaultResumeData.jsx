@@ -63,7 +63,7 @@ const DefaultResumeData = {
       ]
     },
     {
-      "title": "Ketereampilan Nonteknis",
+      "title": "Keterampilan Nonteknis",
       "skills": [
         "Kolaborasi", "Pemecahan Masalah", "Komunikasi", "Manajemen Waktu", "Berorientasi Hasil"
       ]
