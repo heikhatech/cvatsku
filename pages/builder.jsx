@@ -76,7 +76,11 @@ export default function Builder(props) {
             className="max-w-full h-auto" 
           />
         </a>
-        <p className="mt-2 text-center">CVATSKU.web.id</p>
+        <p className="mt-2 text-center">CVATSKU.web.id</p><br>
+          <a href="https://lynk.id/itwithkhafid/eO9E1KA" target="_blank" 
+   style="background: linear-gradient(to right, rgb(0, 255, 255), rgb(0, 204, 204)); color: white; padding: 10px; text-decoration: none;" 
+   rel="noopener noreferrer">
+    Klik untuk Akses Kelas Excel Word PPT Lengkap</a>
       </div>
 
               <LoadUnload/>
